@@ -1,0 +1,1656 @@
+{
+  "statistical_data": {
+    "friends_num": 108,
+    "active_num": 90,
+    "error_num": 18,
+    "article_num": 235,
+    "last_updated_time": "2026-10-04 06:36:19"
+  },
+  "article_data": [
+    {
+      "title": "[短讯]:查询whois for edu.cn",
+      "created": "2026-10-04 03:57",
+      "link": "https://xingwangzhe.fun/posts/whois-for-edu-cn/",
+      "author": "姓王者",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/xingwangzhe_fun_%E5%A7%93%E7%8E%8B%E8%80%85.ico"
+    },
+    {
+      "title": "深圳之行",
+      "created": "2026-10-03 21:00",
+      "link": "https://blog.kamt.cn/archives/75/",
+      "author": "木头堆栈",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/files.kamt.cn_%E6%9C%A8%E5%A4%B4%E5%A0%86%E6%A0%88.png"
+    },
+    {
+      "title": "C++ 跨模块陷阱：inline 变量的“双胞胎”问题",
+      "created": "2026-10-03 15:54",
+      "link": "https://www.seaepoch.com/articles/d2fd9b42/",
+      "author": "SeaEpoch",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_seaepoch_com_SeaEpoch.png"
+    },
+    {
+      "title": "普天同庆 · 共迎华诞",
+      "created": "2026-10-01 00:00",
+      "link": "https://xinyu19.com/assorted/148.html",
+      "author": "心语难诉",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.xinyu19.com_%E5%BF%83%E8%AF%AD%E9%9A%BE%E8%AF%89.png"
+    },
+    {
+      "title": "九月 - 养一个老车的成本也太高了",
+      "created": "2026-10-01 00:00",
+      "link": "https://tch.cool/archives/OeGiGyMt",
+      "author": "我剑也未尝不利",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/tch.cool_%E6%88%91%E5%89%91%E4%B9%9F%E6%9C%AA%E5%B0%9D%E4%B8%8D%E5%88%A9.png"
+    },
+    {
+      "title": "Sam Altman reflections",
+      "created": "2026-09-30 17:40",
+      "link": "https://blog.yujiay.wang/ai/SamAltman_reflections/",
+      "author": "Evilrabbit",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_yujiay_wang_Evilrabbit.png"
+    },
+    {
+      "title": "月记 17：2026 年 9 月小结",
+      "created": "2026-09-30 08:00",
+      "link": "https://www.linexic.top/post/monthly-17-2026-sept/",
+      "author": "LineXic",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/linexic_top_LineXic.png"
+    },
+    {
+      "title": "Docker项目部署与DockerCompose",
+      "created": "2026-09-29 08:00",
+      "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/javaweb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/113-docker%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8Edockercompose/",
+      "author": "团子和蛋糕",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tsh520_cn_%E5%9B%A2%E5%AD%90%E5%92%8C%E8%9B%8B%E7%B3%95.webp"
+    },
+    {
+      "title": "Docker自定义镜像与网络",
+      "created": "2026-09-29 08:00",
+      "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/javaweb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/112-docker%E8%87%AA%E5%AE%9A%E4%B9%89%E9%95%9C%E5%83%8F%E4%B8%8E%E7%BD%91%E7%BB%9C/",
+      "author": "团子和蛋糕",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tsh520_cn_%E5%9B%A2%E5%AD%90%E5%92%8C%E8%9B%8B%E7%B3%95.webp"
+    },
+    {
+      "title": "Docker常见命令与数据卷",
+      "created": "2026-09-29 08:00",
+      "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/javaweb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/111-docker%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%8D%B7/",
+      "author": "团子和蛋糕",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tsh520_cn_%E5%9B%A2%E5%AD%90%E5%92%8C%E8%9B%8B%E7%B3%95.webp"
+    },
+    {
+      "title": "Docker快速入门",
+      "created": "2026-09-29 08:00",
+      "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/javaweb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/110-docker%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/",
+      "author": "团子和蛋糕",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tsh520_cn_%E5%9B%A2%E5%AD%90%E5%92%8C%E8%9B%8B%E7%B3%95.webp"
+    },
+    {
+      "title": "项目部署到Linux",
+      "created": "2026-09-29 08:00",
+      "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/javaweb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/109-%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E5%88%B0linux/",
+      "author": "团子和蛋糕",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tsh520_cn_%E5%9B%A2%E5%AD%90%E5%92%8C%E8%9B%8B%E7%B3%95.webp"
+    },
+    {
+      "title": "我家猫叫西瓜",
+      "created": "2026-09-29 00:00",
+      "link": "https://dusays.com/posts/890/",
+      "author": "杜老师说",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dusays_com_%E6%9D%9C%E8%80%81%E5%B8%88%E8%AF%B4.png"
+    },
+    {
+      "title": "【笔记】Vite学习笔记",
+      "created": "2026-09-28 07:32",
+      "link": "https://loli.fj.cn/2026/09/27/Vite%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+      "author": "绯鞠",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/loli_fj_cn_%E7%BB%AF%E9%9E%A0.png"
+    },
+    {
+      "title": "连着两周二刷《欢迎来龙餐馆》，记一些个人的观影感受",
+      "created": "2026-09-27 23:26",
+      "link": "https://blog.timxs.com/archives/JEhVbw4o",
+      "author": "Tim’s Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.timxs.com_Tim_s_Blog.webp"
+    },
+    {
+      "title": "去除无效Token！从日均5元降到2元的方法是？",
+      "created": "2026-09-27 08:00",
+      "link": "https://pinpe.top/posts/intelligent-reform/",
+      "author": "Pinpe 的云端",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/pinpe.top_Pinpe_%E7%9A%84%E4%BA%91%E7%AB%AF.jpg"
+    },
+    {
+      "title": "Whois edu.cn? CERNIC介绍",
+      "created": "2026-09-27 03:46",
+      "link": "https://xingwangzhe.fun/posts/whois-edu-cn-cernic/",
+      "author": "姓王者",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/xingwangzhe_fun_%E5%A7%93%E7%8E%8B%E8%80%85.ico"
+    },
+    {
+      "title": "明月几时有：月相的知识",
+      "created": "2026-09-26 02:40",
+      "link": "https://xingwangzhe.fun/posts/moon-phase-mid-autumn/",
+      "author": "姓王者",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/xingwangzhe_fun_%E5%A7%93%E7%8E%8B%E8%80%85.ico"
+    },
+    {
+      "title": "把 DeepSeek 添加为你的浏览器搜索引擎",
+      "created": "2026-09-25 08:00",
+      "link": "https://blog.tianhw.top/posts/ds-search/",
+      "author": "THW",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tianhw_top_THW.webp"
+    },
+    {
+      "title": "使用 opencode2api 反向代理 OpenCode Zen",
+      "created": "2026-09-25 08:00",
+      "link": "https://blog.tianhw.top/posts/opencode2api/",
+      "author": "THW",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tianhw_top_THW.webp"
+    },
+    {
+      "title": "公告:密友请更新我的GPG时间",
+      "created": "2026-09-24 01:29",
+      "link": "https://xingwangzhe.fun/posts/gpg-expiry-update-2027/",
+      "author": "姓王者",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/xingwangzhe_fun_%E5%A7%93%E7%8E%8B%E8%80%85.ico"
+    },
+    {
+      "title": "宝塔面板部署思源笔记",
+      "created": "2026-09-23 20:31",
+      "link": "https://blog.chario.cn/33.html",
+      "author": "枝语风笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_chario_cn_%E6%9E%9D%E8%AF%AD%E9%A3%8E%E7%AC%BA.ico"
+    },
+    {
+      "title": "我用AI写一个微信小程序工具箱",
+      "created": "2026-09-23 19:58",
+      "link": "https://blog.xrbk.cn/post/109.html",
+      "author": "新锐博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_xrbk_cn_%E6%96%B0%E9%94%90%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "SEO 对于生成式 AI 搜索体验是否仍然重要？",
+      "created": "2026-09-23 17:50",
+      "link": "https://haiy.space/posts/seo-ai",
+      "author": "素心",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/haiy_space_%E7%B4%A0%E5%BF%83.webp"
+    },
+    {
+      "title": "SEO扫盲",
+      "created": "2026-09-23 16:50",
+      "link": "https://haiy.space/posts/seo",
+      "author": "素心",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/haiy_space_%E7%B4%A0%E5%BF%83.webp"
+    },
+    {
+      "title": "新建主题",
+      "created": "2026-09-23 10:30",
+      "link": "https://airy.ink/times/476",
+      "author": "瓦匠-Airy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/airy_ink_%E7%93%A6%E5%8C%A0_Airy.ico"
+    },
+    {
+      "title": "秋雨知凉意",
+      "created": "2026-09-23 00:42",
+      "link": "https://airy.ink/daily/475",
+      "author": "瓦匠-Airy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/airy_ink_%E7%93%A6%E5%8C%A0_Airy.ico"
+    },
+    {
+      "title": "一份中秋礼盒",
+      "created": "2026-09-23 00:00",
+      "link": "https://dusays.com/posts/889/",
+      "author": "杜老师说",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dusays_com_%E6%9D%9C%E8%80%81%E5%B8%88%E8%AF%B4.png"
+    },
+    {
+      "title": "【低成本减肥进行时1】第一个月的小进展，蚂蚁阿福陪伴我瘦下来5kg",
+      "created": "2026-09-22 21:10",
+      "link": "https://www.52txr.cn/2026/jianfei1month.html",
+      "author": "陶小桃Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_52txr_cn_%E9%99%B6%E5%B0%8F%E6%A1%83Blog.png"
+    },
+    {
+      "title": "博客两周年，做点小修小改",
+      "created": "2026-09-21 14:41",
+      "link": "https://blog.kamt.cn/archives/74/",
+      "author": "木头堆栈",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/files.kamt.cn_%E6%9C%A8%E5%A4%B4%E5%A0%86%E6%A0%88.png"
+    },
+    {
+      "title": "城市远方的怪声",
+      "created": "2026-09-21 08:00",
+      "link": "https://pinpe.top/posts/guaa/",
+      "author": "Pinpe 的云端",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/pinpe.top_Pinpe_%E7%9A%84%E4%BA%91%E7%AB%AF.jpg"
+    },
+    {
+      "title": "Windows 更改系统默认编码为 UTF-8",
+      "created": "2026-09-20 23:31",
+      "link": "https://www.seaepoch.com/articles/e853f118/",
+      "author": "SeaEpoch",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_seaepoch_com_SeaEpoch.png"
+    },
+    {
+      "title": "麦当劳兼职两个月，离职后我去江苏逛吃了几天",
+      "created": "2026-09-20 06:38",
+      "link": "https://t-t.live/archives/JsWmqT4R",
+      "author": "团团生活志",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.t-t.live_%E5%9B%A2%E5%9B%A2%E7%94%9F%E6%B4%BB%E5%BF%97.ico"
+    },
+    {
+      "title": "致 Ethereal 主题用户",
+      "created": "2026-09-19 23:15",
+      "link": "https://www.nanzhiy.cn/archives/tOrjdwXk",
+      "author": "楠枝小笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_nanzhiy_cn_%E6%A5%A0%E6%9E%9D%E5%B0%8F%E7%AC%BA.jpg"
+    },
+    {
+      "title": "读马特·海格《活下去的理由》",
+      "created": "2026-09-19 08:00",
+      "link": "https://www.linexic.top/post/huo-xia-qu-de-li-you/",
+      "author": "LineXic",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/linexic_top_LineXic.png"
+    },
+    {
+      "title": "From Pixel to Porcelain: How Linxi SmartModel Turns AI Imagination into Collectible Art",
+      "created": "2026-09-18 16:07",
+      "link": "https://haiy.space/posts/from-pixel-to-porcelain-how-linxi-smartmodel-turns-ai-imagination-into-collectible-art",
+      "author": "素心",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/haiy_space_%E7%B4%A0%E5%BF%83.webp"
+    },
+    {
+      "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+      "created": "2026-09-18 08:03",
+      "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "author": "阮一峰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_ruanyifeng_com_%E9%98%AE%E4%B8%80%E5%B3%B0.ico"
+    },
+    {
+      "title": "开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量",
+      "created": "2026-09-17 00:00",
+      "link": "https://dusays.com/posts/888/",
+      "author": "杜老师说",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dusays_com_%E6%9D%9C%E8%80%81%E5%B8%88%E8%AF%B4.png"
+    },
+    {
+      "title": "高性能 IPC 之共享内存",
+      "created": "2026-09-16 20:56",
+      "link": "https://www.seaepoch.com/articles/552d9b37/",
+      "author": "SeaEpoch",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_seaepoch_com_SeaEpoch.png"
+    },
+    {
+      "title": "把心事寄给若干年后｜遇见时光信鹊",
+      "created": "2026-09-16 11:17",
+      "link": "https://jiangyiming.cn/archives/ba-xin-shi-ji-gei-ruo-gan-nian-hou-yu-jian-shi-guang-xin-que",
+      "author": "江一铭",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/jiangsihan.cn_%E6%B1%9F%E4%B8%80%E9%93%AD.jpg"
+    },
+    {
+      "title": "【笔记】womprat学习笔记",
+      "created": "2026-09-16 05:43",
+      "link": "https://loli.fj.cn/2026/09/15/womprat%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+      "author": "绯鞠",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/loli_fj_cn_%E7%BB%AF%E9%9E%A0.png"
+    },
+    {
+      "title": "NAT 回流解决方案",
+      "created": "2026-09-15 21:00",
+      "link": "https://blog.lololowe.com/posts/68aa/",
+      "author": "lololowe 的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_lololowe_com_lololowe_%E7%9A%84%E5%8D%9A%E5%AE%A2.webp"
+    },
+    {
+      "title": "我选择 Pi.dev，为自己的电脑装上 AI Agent",
+      "created": "2026-09-15 20:00",
+      "link": "https://mingcy.cn/2026/09/15/pi-dev/",
+      "author": "茗辰原",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/mingcy_cn_%E8%8C%97%E8%BE%B0%E5%8E%9F.webp"
+    },
+    {
+      "title": "28岁的自己",
+      "created": "2026-09-15 18:18",
+      "link": "https://airy.ink/times/474",
+      "author": "瓦匠-Airy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/airy_ink_%E7%93%A6%E5%8C%A0_Airy.ico"
+    },
+    {
+      "title": "【笔记】Tailscale学习笔记",
+      "created": "2026-09-15 15:30",
+      "link": "https://loli.fj.cn/2026/09/15/Tailscale%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+      "author": "绯鞠",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/loli_fj_cn_%E7%BB%AF%E9%9E%A0.png"
+    },
+    {
+      "title": "VSCode 怎么隐藏发行说明？",
+      "created": "2026-09-15 07:39",
+      "link": "https://www.seaepoch.com/articles/b882c9bc/",
+      "author": "SeaEpoch",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_seaepoch_com_SeaEpoch.png"
+    },
+    {
+      "title": "【笔记】部署RustDesk中继服务器",
+      "created": "2026-09-15 06:13",
+      "link": "https://loli.fj.cn/2026/09/14/%E9%83%A8%E7%BD%B2RustDesk%E4%B8%AD%E7%BB%A7%E6%9C%8D%E5%8A%A1%E5%99%A8/",
+      "author": "绯鞠",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/loli_fj_cn_%E7%BB%AF%E9%9E%A0.png"
+    },
+    {
+      "title": "OpenClaw 接管你的油猴脚本：让 AI 直接读改网页脚本，不用再复制粘贴",
+      "created": "2026-09-14 12:30",
+      "link": "https://blog.zhheo.com/p/kp6o6mwu.html",
+      "author": "张洪Heo",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_zhheo_com_%E5%BC%A0%E6%B4%AAHeo.png"
+    },
+    {
+      "title": "Ace Panel面板使用感受",
+      "created": "2026-09-14 09:28",
+      "link": "https://blog.chario.cn/Ace-Panel.html",
+      "author": "枝语风笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_chario_cn_%E6%9E%9D%E8%AF%AD%E9%A3%8E%E7%AC%BA.ico"
+    },
+    {
+      "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
+      "created": "2026-09-14 00:30",
+      "link": "https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/",
+      "author": "姓王者",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/xingwangzhe_fun_%E5%A7%93%E7%8E%8B%E8%80%85.ico"
+    },
+    {
+      "title": "九月开学后的一篇小记",
+      "created": "2026-09-13 23:45",
+      "link": "https://blog.224418.xyz/posts/93a92a29/",
+      "author": "TangShiMei",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_224418_xyz_TangShiMei.png"
+    },
+    {
+      "title": "网站搬家之从停机到恢复的全流程记录💪",
+      "created": "2026-09-13 21:51",
+      "link": "https://tch.cool/archives/vv8t04Pu",
+      "author": "我剑也未尝不利",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/tch.cool_%E6%88%91%E5%89%91%E4%B9%9F%E6%9C%AA%E5%B0%9D%E4%B8%8D%E5%88%A9.png"
+    },
+    {
+      "title": "龙虾潮退去后，Hermes 还有用吗？",
+      "created": "2026-09-13 08:00",
+      "link": "https://blog.tianhw.top/posts/hermes-agent-guide/",
+      "author": "THW",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tianhw_top_THW.webp"
+    },
+    {
+      "title": "王道408计算机网络 2.1 物理层通信基础与传输介质",
+      "created": "2026-09-12 15:36",
+      "link": "https://www.young143.top/archives/54/",
+      "author": "Young143 Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/cn.cravatar.com_Young143_Blog.png"
+    },
+    {
+      "title": "聊一聊近况",
+      "created": "2026-09-12 11:55",
+      "link": "https://lznauy.cn/posts/2026-09-12-%E8%81%8A%E4%B8%80%E8%81%8A%E8%BF%91%E5%86%B5/",
+      "author": "lznauy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/lznauy_cn_lznauy.png"
+    },
+    {
+      "title": "即便是Agent也需要社交",
+      "created": "2026-09-12 08:00",
+      "link": "https://pinpe.top/posts/ai-link/",
+      "author": "Pinpe 的云端",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/pinpe.top_Pinpe_%E7%9A%84%E4%BA%91%E7%AB%AF.jpg"
+    },
+    {
+      "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
+      "created": "2026-09-11 16:59",
+      "link": "https://blog.zhheo.com/p/kq0qyc9y.html",
+      "author": "张洪Heo",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_zhheo_com_%E5%BC%A0%E6%B4%AAHeo.png"
+    },
+    {
+      "title": "看到了淘宝闪购的AI评论，引发了我的思考",
+      "created": "2026-09-11 16:07",
+      "link": "https://blog.zhheo.com/p/0vmg6q9j.html",
+      "author": "张洪Heo",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_zhheo_com_%E5%BC%A0%E6%B4%AAHeo.png"
+    },
+    {
+      "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+      "created": "2026-09-11 08:11",
+      "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "author": "阮一峰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_ruanyifeng_com_%E9%98%AE%E4%B8%80%E5%B3%B0.ico"
+    },
+    {
+      "title": "博客三周年记",
+      "created": "2026-09-11 08:00",
+      "link": "https://www.linexic.top/post/blog-three-year/",
+      "author": "LineXic",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/linexic_top_LineXic.png"
+    },
+    {
+      "title": "Python 脚本自动化实战:让重复工作一键完成",
+      "created": "2026-09-11 00:00",
+      "link": "https://dusays.com/posts/887/",
+      "author": "杜老师说",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dusays_com_%E6%9D%9C%E8%80%81%E5%B8%88%E8%AF%B4.png"
+    },
+    {
+      "title": "edge-sync：给树莓派装一个插件化备份管家",
+      "created": "2026-09-10 22:57",
+      "link": "https://www.young143.top/archives/53/",
+      "author": "Young143 Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/cn.cravatar.com_Young143_Blog.png"
+    },
+    {
+      "title": "我的大学之旅",
+      "created": "2026-09-10 20:00",
+      "link": "https://mingcy.cn/2026/09/10/xgy/",
+      "author": "茗辰原",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/mingcy_cn_%E8%8C%97%E8%BE%B0%E5%8E%9F.webp"
+    },
+    {
+      "title": "瞎搞",
+      "created": "2026-09-10 14:45",
+      "link": "https://airy.ink/daily/473",
+      "author": "瓦匠-Airy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/airy_ink_%E7%93%A6%E5%8C%A0_Airy.ico"
+    },
+    {
+      "title": "六月是只猫外链网盘",
+      "created": "2026-09-09 17:00",
+      "link": "https://www.lyszm.com/1103.html",
+      "author": "六月是只猫",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_lyszm_com_%E5%85%AD%E6%9C%88%E6%98%AF%E5%8F%AA%E7%8C%AB.ico"
+    },
+    {
+      "title": "如何在网页插入 livephoto ？实况照片 PVT 在线生成、动态JPG生成工具与嵌入工具",
+      "created": "2026-09-09 16:27",
+      "link": "https://blog.zhheo.com/p/j5ns9clc.html",
+      "author": "张洪Heo",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_zhheo_com_%E5%BC%A0%E6%B4%AAHeo.png"
+    },
+    {
+      "title": "使用astro原生pjax实现无缝切换",
+      "created": "2026-09-09 11:24",
+      "link": "https://blog.xrbk.cn/post/108.html",
+      "author": "新锐博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_xrbk_cn_%E6%96%B0%E9%94%90%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "TypechoCli——命令行操作Typecho及skill",
+      "created": "2026-09-09 11:03",
+      "link": "https://www.young143.top/archives/51/",
+      "author": "Young143 Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/cn.cravatar.com_Young143_Blog.png"
+    },
+    {
+      "title": "联想拯救者 Y700 四代（TB322FC）刷入澎湃 OS 3 教程",
+      "created": "2026-09-09 08:30",
+      "link": "https://www.imaegoo.com/2026/y700-tb322fc-flash-hyper/",
+      "author": "虹墨",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_imaegoo_com_%E8%99%B9%E5%A2%A8.png"
+    },
+    {
+      "title": "近期开发的四个开源项目",
+      "created": "2026-09-09 02:12",
+      "link": "https://blog.liushen.fun/posts/6a6de263/",
+      "author": "清羽飞扬",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_liushen_fun_%E6%B8%85%E7%BE%BD%E9%A3%9E%E6%89%AC.ico"
+    },
+    {
+      "title": "[吐槽] 系统更新还能改我鼠标样式？",
+      "created": "2026-09-07 22:31",
+      "link": "https://blog.kamt.cn/archives/73/",
+      "author": "木头堆栈",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/files.kamt.cn_%E6%9C%A8%E5%A4%B4%E5%A0%86%E6%A0%88.png"
+    },
+    {
+      "title": "骑行",
+      "created": "2026-09-07 19:48",
+      "link": "https://airy.ink/daily/471",
+      "author": "瓦匠-Airy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/airy_ink_%E7%93%A6%E5%8C%A0_Airy.ico"
+    },
+    {
+      "title": "又到了这种时候",
+      "created": "2026-09-06 23:35",
+      "link": "https://www.young143.top/archives/50/",
+      "author": "Young143 Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/cn.cravatar.com_Young143_Blog.png"
+    },
+    {
+      "title": "Linux 入门基础知识总结",
+      "created": "2026-09-06 18:16",
+      "link": "https://www.seaepoch.com/articles/d3b879fb/",
+      "author": "SeaEpoch",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_seaepoch_com_SeaEpoch.png"
+    },
+    {
+      "title": "论轻生",
+      "created": "2026-09-06 07:26",
+      "link": "https://yuuu.org/post/on-suicide/",
+      "author": "微霞",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yuuu_org_%E5%BE%AE%E9%9C%9E.png"
+    },
+    {
+      "title": "月记 16：我的八月",
+      "created": "2026-09-05 08:00",
+      "link": "https://www.linexic.top/post/monthly-16-my-aug/",
+      "author": "LineXic",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/linexic_top_LineXic.png"
+    },
+    {
+      "title": "Web 应用常见漏洞与防御:OWASP Top 10 实战讲解",
+      "created": "2026-09-05 00:00",
+      "link": "https://dusays.com/posts/886/",
+      "author": "杜老师说",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dusays_com_%E6%9D%9C%E8%80%81%E5%B8%88%E8%AF%B4.png"
+    },
+    {
+      "title": "2026-08小记",
+      "created": "2026-09-04 20:27",
+      "link": "https://blog.storia.ren/posts/write-202608/",
+      "author": "绘星里",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_storia_ren_%E7%BB%98%E6%98%9F%E9%87%8C.png"
+    },
+    {
+      "title": "M-LAG跨设备链路聚合组",
+      "created": "2026-09-04 16:23",
+      "link": "https://blog.lololowe.com/posts/ebab/",
+      "author": "lololowe 的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_lololowe_com_lololowe_%E7%9A%84%E5%8D%9A%E5%AE%A2.webp"
+    },
+    {
+      "title": "MacBook不进入休眠全新邪修：十几块钱的绿联HDMI欺骗器",
+      "created": "2026-09-04 14:00",
+      "link": "https://blog.zhheo.com/p/8p5a0k56.html",
+      "author": "张洪Heo",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_zhheo_com_%E5%BC%A0%E6%B4%AAHeo.png"
+    },
+    {
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "created": "2026-09-04 07:59",
+      "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "author": "阮一峰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_ruanyifeng_com_%E9%98%AE%E4%B8%80%E5%B3%B0.ico"
+    },
+    {
+      "title": "告别千篇一律：给 Halo 站点加上个性化装扮与身份标识系统",
+      "created": "2026-09-04 01:17",
+      "link": "https://blog.timxs.com/archives/2BrZHVl1",
+      "author": "Tim’s Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.timxs.com_Tim_s_Blog.webp"
+    },
+    {
+      "title": "一个项目让我找回了从前的记忆，方知已不再年轻",
+      "created": "2026-09-03 20:58",
+      "link": "https://blog.xrbk.cn/post/107.html",
+      "author": "新锐博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_xrbk_cn_%E6%96%B0%E9%94%90%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "王道408计算机网络 1.2 分层结构与OSI参考模型",
+      "created": "2026-09-03 15:25",
+      "link": "https://www.young143.top/archives/49/",
+      "author": "Young143 Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/cn.cravatar.com_Young143_Blog.png"
+    },
+    {
+      "title": "风记得的音乐：以三首钢琴曲告别这个夏天吧",
+      "created": "2026-09-03 10:06",
+      "link": "https://www.thyuu.com/82051/",
+      "author": "风记星辰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_thyuu_com_%E9%A3%8E%E8%AE%B0%E6%98%9F%E8%BE%B0.png"
+    },
+    {
+      "title": "P12632 This Is Sparta!：数据会自己坍塌",
+      "created": "2026-09-03 09:12",
+      "link": "https://www.vindo.cn/blog/p12632-this-is-sparta",
+      "author": "间窗的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_vindo_cn_%E9%97%B4%E7%AA%97%E7%9A%84%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "利用ai和rust写一个桌面应用(未开源)",
+      "created": "2026-09-03 09:09",
+      "link": "https://blog.xrbk.cn/post/106.html",
+      "author": "新锐博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_xrbk_cn_%E6%96%B0%E9%94%90%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "【笔记】Sub2API学习笔记",
+      "created": "2026-09-03 08:13",
+      "link": "https://loli.fj.cn/2026/09/03/%E9%83%A8%E7%BD%B2Sub2API/",
+      "author": "绯鞠",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/loli_fj_cn_%E7%BB%AF%E9%9E%A0.png"
+    },
+    {
+      "title": "2026年8月体检报告存档",
+      "created": "2026-09-03 08:00",
+      "link": "https://pinpe.top/posts/2026-health-checkup-report/",
+      "author": "Pinpe 的云端",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/pinpe.top_Pinpe_%E7%9A%84%E4%BA%91%E7%AB%AF.jpg"
+    },
+    {
+      "title": "才发现原来我的手机早就支持微信语音和视频电话录音功能了",
+      "created": "2026-09-02 21:01",
+      "link": "https://www.52txr.cn/2026/wechatrecord.html",
+      "author": "陶小桃Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_52txr_cn_%E9%99%B6%E5%B0%8F%E6%A1%83Blog.png"
+    },
+    {
+      "title": "记一次紧急业务割接 | Lsky图床炸了！",
+      "created": "2026-09-02 08:00",
+      "link": "https://www.xscnet.cn/posts/p4420260902/",
+      "author": "Mete0r",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_xscnet_cn_Mete0r.ico"
+    },
+    {
+      "title": "一首写家暴的歌，和一个关于「接力棒」的词",
+      "created": "2026-09-01 21:07",
+      "link": "https://blog.chario.cn/26.html",
+      "author": "枝语风笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_chario_cn_%E6%9E%9D%E8%AF%AD%E9%A3%8E%E7%AC%BA.ico"
+    },
+    {
+      "title": "Handsome主题美化",
+      "created": "2026-09-01 19:41",
+      "link": "https://blog.chario.cn/Handsome.html",
+      "author": "枝语风笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_chario_cn_%E6%9E%9D%E8%AF%AD%E9%A3%8E%E7%AC%BA.ico"
+    },
+    {
+      "title": "各种 AI 工具来来回回切模型太麻烦？Bifrost 自建 AI 网关，实现模型切换自由",
+      "created": "2026-09-01 12:00",
+      "link": "https://www.imaegoo.com/2026/bifrost-router/",
+      "author": "虹墨",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_imaegoo_com_%E8%99%B9%E5%A2%A8.png"
+    },
+    {
+      "title": "八月 - 进一步适应奶爸的身份",
+      "created": "2026-09-01 00:00",
+      "link": "https://tch.cool/archives/XifBX22W",
+      "author": "我剑也未尝不利",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/tch.cool_%E6%88%91%E5%89%91%E4%B9%9F%E6%9C%AA%E5%B0%9D%E4%B8%8D%E5%88%A9.png"
+    },
+    {
+      "title": "P14445 Follow the Sequence 解题记录：从“无限复制路径”到“离散射线”",
+      "created": "2026-08-31 16:50",
+      "link": "https://www.vindo.cn/blog/p14445-follow-the-sequence",
+      "author": "间窗的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_vindo_cn_%E9%97%B4%E7%AA%97%E7%9A%84%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "mDNS简介与配置",
+      "created": "2026-08-31 16:25",
+      "link": "https://blog.lololowe.com/posts/4b63/",
+      "author": "lololowe 的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_lololowe_com_lololowe_%E7%9A%84%E5%8D%9A%E5%AE%A2.webp"
+    },
+    {
+      "title": "开学前一天以学长身份当迎新志愿者",
+      "created": "2026-08-30 17:36",
+      "link": "https://blog.224418.xyz/posts/5e681bed/",
+      "author": "TangShiMei",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_224418_xyz_TangShiMei.png"
+    },
+    {
+      "title": "ZL-综合插件使用说明",
+      "created": "2026-08-30 16:53",
+      "link": "https://blog.zxiaolin.com/archives/zl-%E7%BB%BC%E5%90%88%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E",
+      "author": "小林酱博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.zxiaolin.com_%E5%B0%8F%E6%9E%97%E9%85%B1%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "cnb与eopages关联异常，已反馈官方并已修复",
+      "created": "2026-08-29 15:55",
+      "link": "https://blog.xrbk.cn/post/105.html",
+      "author": "新锐博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_xrbk_cn_%E6%96%B0%E9%94%90%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "结束了在无锡半年的租房，以及最近内耗的日子",
+      "created": "2026-08-29 11:21",
+      "link": "https://www.52txr.cn/2026/wxneihao.html",
+      "author": "陶小桃Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_52txr_cn_%E9%99%B6%E5%B0%8F%E6%A1%83Blog.png"
+    },
+    {
+      "title": "为Firefly博客加入「更新日志」页面，记录并展示每一次的Git提交修改",
+      "created": "2026-08-29 08:00",
+      "link": "https://www.jerrynis.com/posts/add-change-log/",
+      "author": "JerryLife",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_jerrynis_com_JerryLife.png"
+    },
+    {
+      "title": "『晨阳』我的昵称发展史",
+      "created": "2026-08-28 22:39",
+      "link": "https://www.puresky.top/archives/O7IR6T5Y",
+      "author": "轻雅阁",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www.puresky.top_%E8%BD%BB%E9%9B%85%E9%98%81.png"
+    },
+    {
+      "title": "构造题怎么想才不容易乱：骨架、接口、余量与收口",
+      "created": "2026-08-28 11:44",
+      "link": "https://www.vindo.cn/blog/oi-icpc-construction-methodology",
+      "author": "间窗的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_vindo_cn_%E9%97%B4%E7%AA%97%E7%9A%84%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "created": "2026-08-28 07:56",
+      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "author": "阮一峰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_ruanyifeng_com_%E9%98%AE%E4%B8%80%E5%B3%B0.ico"
+    },
+    {
+      "title": "NotepadE——一款简洁轻量的记事本软件",
+      "created": "2026-08-28 00:00",
+      "link": "https://yumetsuki.moe/posts/ed50f288/",
+      "author": "梦溯·镜影",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yumetsuki_moe_%E6%A2%A6%E6%BA%AF_%E9%95%9C%E5%BD%B1.ico"
+    },
+    {
+      "title": "PEAK：和朋友们一起爬山",
+      "created": "2026-08-27 19:47",
+      "link": "https://mccsjs.cn/posts/0eaf9f57",
+      "author": "mccsjs",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_seln_cn_mccsjs.png"
+    },
+    {
+      "title": "当《你是我的眼》响起，一切都值得了",
+      "created": "2026-08-26 13:14",
+      "link": "https://blog.timxs.com/archives/3pPSehwY",
+      "author": "Tim’s Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.timxs.com_Tim_s_Blog.webp"
+    },
+    {
+      "title": "8月小结 | 博客更新方向意见征求",
+      "created": "2026-08-26 08:00",
+      "link": "https://www.xscnet.cn/posts/p4320260826/",
+      "author": "Mete0r",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_xscnet_cn_Mete0r.ico"
+    },
+    {
+      "title": "Cloudflare国内速度优化、优选域名IP心得分享",
+      "created": "2026-08-26 08:00",
+      "link": "https://www.jerrynis.com/posts/cf/cf/",
+      "author": "JerryLife",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_jerrynis_com_JerryLife.png"
+    },
+    {
+      "title": "实现兰顿蚂蚁",
+      "created": "2026-08-26 08:00",
+      "link": "https://pinpe.top/posts/landon-ant/",
+      "author": "Pinpe 的云端",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/pinpe.top_Pinpe_%E7%9A%84%E4%BA%91%E7%AB%AF.jpg"
+    },
+    {
+      "title": "Halo 官方 MCP 插件上手体验",
+      "created": "2026-08-25 20:35",
+      "link": "https://www.nanzhiy.cn/archives/halo-mcp-plugin-tiyan",
+      "author": "楠枝小笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_nanzhiy_cn_%E6%A5%A0%E6%9E%9D%E5%B0%8F%E7%AC%BA.jpg"
+    },
+    {
+      "title": "Z-Library 2026年最新可用入口及避坑指南",
+      "created": "2026-08-25 13:13",
+      "link": "https://www.52txr.cn/2026/Z-Library.html",
+      "author": "陶小桃Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_52txr_cn_%E9%99%B6%E5%B0%8F%E6%A1%83Blog.png"
+    },
+    {
+      "title": "1Panel第三方应用商店的使用",
+      "created": "2026-08-24 13:14",
+      "link": "https://blog.chario.cn/1Panel.html",
+      "author": "枝语风笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_chario_cn_%E6%9E%9D%E8%AF%AD%E9%A3%8E%E7%AC%BA.ico"
+    },
+    {
+      "title": "自用还不错的GPT-5、Claude等模型第三方AI中转站&quot;一元API&quot;",
+      "created": "2026-08-23 19:22",
+      "link": "https://www.52txr.cn/2026/sub2api.html",
+      "author": "陶小桃Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_52txr_cn_%E9%99%B6%E5%B0%8F%E6%A1%83Blog.png"
+    },
+    {
+      "title": "苏州游记：一半江南，一半赛博",
+      "created": "2026-08-23 02:43",
+      "link": "https://blog.mcxiaochen.top/posts/p5w3j5nt/",
+      "author": "辰渊尘",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_mcxiaochen_top_%E8%BE%B0%E6%B8%8A%E5%B0%98.ico"
+    },
+    {
+      "title": "一半是暗影，一半是梦境。",
+      "created": "2026-08-21 23:03",
+      "link": "https://www.puresky.top/archives/McT2i7Dw",
+      "author": "轻雅阁",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www.puresky.top_%E8%BD%BB%E9%9B%85%E9%98%81.png"
+    },
+    {
+      "title": "序章：粉色的云",
+      "created": "2026-08-21 22:59",
+      "link": "https://www.puresky.top/archives/MoQC2CpB",
+      "author": "轻雅阁",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www.puresky.top_%E8%BD%BB%E9%9B%85%E9%98%81.png"
+    },
+    {
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "created": "2026-08-21 07:53",
+      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "author": "阮一峰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_ruanyifeng_com_%E9%98%AE%E4%B8%80%E5%B3%B0.ico"
+    },
+    {
+      "title": "《Hello C++》4.8 数组的替代品",
+      "created": "2026-08-20 17:18",
+      "link": "https://blog.yujiay.wang/bookHelloCpp/HelloCpp/4-8_ArrayAlternatives/",
+      "author": "Evilrabbit",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_yujiay_wang_Evilrabbit.png"
+    },
+    {
+      "title": "《Hello C++》4.7 指针的更多用法",
+      "created": "2026-08-20 13:53",
+      "link": "https://blog.yujiay.wang/bookHelloCpp/HelloCpp/4-7_PointerMore/",
+      "author": "Evilrabbit",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_yujiay_wang_Evilrabbit.png"
+    },
+    {
+      "title": "跨域预检请求失败问题分析",
+      "created": "2026-08-19 14:30",
+      "link": "https://www.imaegoo.com/2026/cors-issue-analysis/",
+      "author": "虹墨",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_imaegoo_com_%E8%99%B9%E5%A2%A8.png"
+    },
+    {
+      "title": "张策的短视频创作课笔记",
+      "created": "2026-08-17 22:12",
+      "link": "https://www.0731119.xyz/index.php/archives/549/",
+      "author": "多星宇博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_0731119_xyz_%E5%A4%9A%E6%98%9F%E5%AE%87%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "PVE通过 Cloud-init 部署 Cloud Images 教程",
+      "created": "2026-08-17 18:14",
+      "link": "https://blog.lololowe.com/posts/aae9/",
+      "author": "lololowe 的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_lololowe_com_lololowe_%E7%9A%84%E5%8D%9A%E5%AE%A2.webp"
+    },
+    {
+      "title": "谈谈我的建站史",
+      "created": "2026-08-17 11:10",
+      "link": "https://peter267.github.io/posts/post47/",
+      "author": "Peter267",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/peter267_github_io_Peter267.ico"
+    },
+    {
+      "title": "暑假里的一个月，我都去干什么了？",
+      "created": "2026-08-16 23:06",
+      "link": "https://blog.224418.xyz/posts/ca766f9d/",
+      "author": "TangShiMei",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_224418_xyz_TangShiMei.png"
+    },
+    {
+      "title": "DeepSeek Harness安装使用及美化教程",
+      "created": "2026-08-16 20:00",
+      "link": "https://mingcy.cn/2026/08/16/deepseek-harness/",
+      "author": "茗辰原",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/mingcy_cn_%E8%8C%97%E8%BE%B0%E5%8E%9F.webp"
+    },
+    {
+      "title": "又一年中元",
+      "created": "2026-08-14 14:35",
+      "link": "https://www.puresky.top/archives/Pb8E1Kmg",
+      "author": "轻雅阁",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www.puresky.top_%E8%BD%BB%E9%9B%85%E9%98%81.png"
+    },
+    {
+      "title": "将服务器交给AI：WorkBuddy 接入宝塔面板 MCP 实战指南",
+      "created": "2026-08-14 12:22",
+      "link": "https://www.nanzhiy.cn/archives/NVObtSwG",
+      "author": "楠枝小笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_nanzhiy_cn_%E6%A5%A0%E6%9E%9D%E5%B0%8F%E7%AC%BA.jpg"
+    },
+    {
+      "title": "给 VSCode 添加网络设备配置的语法高亮",
+      "created": "2026-08-13 22:26",
+      "link": "https://blog.lololowe.com/posts/35cc/",
+      "author": "lololowe 的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_lololowe_com_lololowe_%E7%9A%84%E5%8D%9A%E5%AE%A2.webp"
+    },
+    {
+      "title": "MoePal-一款多平台的综合网盘管理、加速下载工具",
+      "created": "2026-08-13 08:00",
+      "link": "https://www.jerrynis.com/posts/moepal/moepal/",
+      "author": "JerryLife",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_jerrynis_com_JerryLife.png"
+    },
+    {
+      "title": "Ungoogled Chromium 初体验安装",
+      "created": "2026-08-12 08:00",
+      "link": "https://www.linexic.top/post/ungoogled-chromium-install/",
+      "author": "LineXic",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/linexic_top_LineXic.png"
+    },
+    {
+      "title": "一次考试学习平台的线上性能优化实战：从读链路 N+1 到考试发卷并发控制",
+      "created": "2026-08-11 15:10",
+      "link": "https://blog.strarry.top/posts/nrthrnxf",
+      "author": "星辰の笔记",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_strarry_top_%E6%98%9F%E8%BE%B0_%E7%AC%94%E8%AE%B0.ico"
+    },
+    {
+      "title": "本地部署翻译大模型，实现翻译自由",
+      "created": "2026-08-10 19:27",
+      "link": "https://www.rsnocsi.cn/2365.html",
+      "author": "Abyss的小屋",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_rsnocsi_cn_Abyss%E7%9A%84%E5%B0%8F%E5%B1%8B.jpg"
+    },
+    {
+      "title": "利用自己的域名+Cloudflare+Resend搭建属于自己的域名邮箱，实现零成本收发邮件功能",
+      "created": "2026-08-10 08:00",
+      "link": "https://www.jerrynis.com/posts/e-mail/e-mail/",
+      "author": "JerryLife",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_jerrynis_com_JerryLife.png"
+    },
+    {
+      "title": "《Hello C++》4.6 指针",
+      "created": "2026-08-09 19:13",
+      "link": "https://blog.yujiay.wang/bookHelloCpp/HelloCpp/4-6_Pointer/",
+      "author": "Evilrabbit",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_yujiay_wang_Evilrabbit.png"
+    },
+    {
+      "title": "《Hello C++》4.5 枚举",
+      "created": "2026-08-09 19:08",
+      "link": "https://blog.yujiay.wang/bookHelloCpp/HelloCpp/4-5_Enum/",
+      "author": "Evilrabbit",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_yujiay_wang_Evilrabbit.png"
+    },
+    {
+      "title": "利用AI制作自己的工作台",
+      "created": "2026-08-08 20:00",
+      "link": "https://mingcy.cn/2026/08/08/new-work/",
+      "author": "茗辰原",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/mingcy_cn_%E8%8C%97%E8%BE%B0%E5%8E%9F.webp"
+    },
+    {
+      "title": "当理想撞上现实，知识分子的“变形记”：读《沧浪之水》",
+      "created": "2026-08-08 14:16",
+      "link": "https://tch.cool/archives/W5EcfvmL",
+      "author": "我剑也未尝不利",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/tch.cool_%E6%88%91%E5%89%91%E4%B9%9F%E6%9C%AA%E5%B0%9D%E4%B8%8D%E5%88%A9.png"
+    },
+    {
+      "title": "谨慎选择京东云",
+      "created": "2026-08-07 10:30",
+      "link": "https://www.imaegoo.com/2026/fk-jdcloud/",
+      "author": "虹墨",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_imaegoo_com_%E8%99%B9%E5%A2%A8.png"
+    },
+    {
+      "title": "多邻国连胜1000天小小纪念🎉",
+      "created": "2026-08-07 08:52",
+      "link": "https://tch.cool/archives/HD0pDxXz",
+      "author": "我剑也未尝不利",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/tch.cool_%E6%88%91%E5%89%91%E4%B9%9F%E6%9C%AA%E5%B0%9D%E4%B8%8D%E5%88%A9.png"
+    },
+    {
+      "title": "AxonHub - 多模型API智能路由网关",
+      "created": "2026-08-07 01:12",
+      "link": "https://blog.liushen.fun/posts/b404081c/",
+      "author": "清羽飞扬",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_liushen_fun_%E6%B8%85%E7%BE%BD%E9%A3%9E%E6%89%AC.ico"
+    },
+    {
+      "title": "Hello，未来世界的代理人们",
+      "created": "2026-08-06 23:10",
+      "link": "https://dongjunke.cn/posts/2026/08/06/38672.html",
+      "author": "东评西就",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dongjunke_cn_%E4%B8%9C%E8%AF%84%E8%A5%BF%E5%B0%B1.png"
+    },
+    {
+      "title": "折腾了三天，我终于放弃自己手搓小程序UI了",
+      "created": "2026-08-05 12:11",
+      "link": "https://blog.zxiaolin.com/archives/xcxsos",
+      "author": "小林酱博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.zxiaolin.com_%E5%B0%8F%E6%9E%97%E9%85%B1%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "剪映导出参数，你是不是从来没动过？",
+      "created": "2026-08-04 14:37",
+      "link": "https://www.0731119.xyz/index.php/archives/548/",
+      "author": "多星宇博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_0731119_xyz_%E5%A4%9A%E6%98%9F%E5%AE%87%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "Ethereal 主题近期更新一览：v1.0.1 到 v1.0.6",
+      "created": "2026-08-03 13:44",
+      "link": "https://www.nanzhiy.cn/archives/HsCzmprw",
+      "author": "楠枝小笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_nanzhiy_cn_%E6%A5%A0%E6%9E%9D%E5%B0%8F%E7%AC%BA.jpg"
+    },
+    {
+      "title": "Git 推送被拒与合并冲突解决方案",
+      "created": "2026-08-02 08:00",
+      "link": "https://www.jerrynis.com/posts/gith/gith/",
+      "author": "JerryLife",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_jerrynis_com_JerryLife.png"
+    },
+    {
+      "title": "逐渐习惯的「暑假工」生活",
+      "created": "2026-08-01 20:05",
+      "link": "https://blog.kamt.cn/archives/70/",
+      "author": "木头堆栈",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/files.kamt.cn_%E6%9C%A8%E5%A4%B4%E5%A0%86%E6%A0%88.png"
+    },
+    {
+      "title": "近况（Ⅲ）：博客二周年、电教委员指南、辅导班、未来一年",
+      "created": "2026-07-31 23:59",
+      "link": "https://peter267.github.io/posts/post46/",
+      "author": "Peter267",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/peter267_github_io_Peter267.ico"
+    },
+    {
+      "title": "2026-07小记",
+      "created": "2026-07-31 22:24",
+      "link": "https://blog.storia.ren/posts/write-202607/",
+      "author": "绘星里",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_storia_ren_%E7%BB%98%E6%98%9F%E9%87%8C.png"
+    },
+    {
+      "title": "2026年，走向 Agent 编程时代",
+      "created": "2026-07-31 20:31",
+      "link": "https://blog.strarry.top/posts/6gcoclue",
+      "author": "星辰の笔记",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_strarry_top_%E6%98%9F%E8%BE%B0_%E7%AC%94%E8%AE%B0.ico"
+    },
+    {
+      "title": "Kubernetes Service/Ingress/CNI 体系",
+      "created": "2026-07-27 20:43",
+      "link": "https://lznauy.cn/posts/2026-07-27-blog-network/",
+      "author": "lznauy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/lznauy_cn_lznauy.png"
+    },
+    {
+      "title": "收藏一时爽,清理要我命",
+      "created": "2026-07-27 20:00",
+      "link": "https://mingcy.cn/2026/07/27/bookmark-cleaner/",
+      "author": "茗辰原",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/mingcy_cn_%E8%8C%97%E8%BE%B0%E5%8E%9F.webp"
+    },
+    {
+      "title": "Kubelet Pod 生命周期管理",
+      "created": "2026-07-25 10:11",
+      "link": "https://lznauy.cn/posts/2026-07-25-blog-kubelet/",
+      "author": "lznauy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/lznauy_cn_lznauy.png"
+    },
+    {
+      "title": "Kubernetes 存储 PV/PVC/CSI 体系",
+      "created": "2026-07-25 10:11",
+      "link": "https://lznauy.cn/posts/2026-07-25-blog-storage/",
+      "author": "lznauy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/lznauy_cn_lznauy.png"
+    },
+    {
+      "title": "Kubernetes API Server—请求处理链路",
+      "created": "2026-07-24 10:11",
+      "link": "https://lznauy.cn/posts/2026-07-24-blog-apiserver/",
+      "author": "lznauy",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/lznauy_cn_lznauy.png"
+    },
+    {
+      "title": "Pressly：逆向 docsmall 的无广告图片压缩站",
+      "created": "2026-07-24 08:00",
+      "link": "https://blog.tianhw.top/posts/pressly/",
+      "author": "THW",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tianhw_top_THW.webp"
+    },
+    {
+      "title": "四季与我",
+      "created": "2026-07-23 17:39",
+      "link": "https://www.puresky.top/archives/VrE78Nk7",
+      "author": "轻雅阁",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www.puresky.top_%E8%BD%BB%E9%9B%85%E9%98%81.png"
+    },
+    {
+      "title": "chatgpt太夯了！终于手搓出属于自己的博客主题",
+      "created": "2026-07-23 13:15",
+      "link": "https://dongjunke.cn/posts/2026/07/23/14600.html",
+      "author": "东评西就",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dongjunke_cn_%E4%B8%9C%E8%AF%84%E8%A5%BF%E5%B0%B1.png"
+    },
+    {
+      "title": "Ethereal主题，发布了",
+      "created": "2026-07-22 19:58",
+      "link": "https://www.nanzhiy.cn/archives/NrAe6wDy",
+      "author": "楠枝小笺",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_nanzhiy_cn_%E6%A5%A0%E6%9E%9D%E5%B0%8F%E7%AC%BA.jpg"
+    },
+    {
+      "title": "今天是0721哦，Ciallo～(∠・ω< )⌒☆",
+      "created": "2026-07-21 15:21",
+      "link": "https://blog.mcxiaochen.top/posts/2026-Ciallo/",
+      "author": "辰渊尘",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_mcxiaochen_top_%E8%BE%B0%E6%B8%8A%E5%B0%98.ico"
+    },
+    {
+      "title": "域名备案中，部分组件和服务可能无法使用",
+      "created": "2026-07-20 17:11",
+      "link": "https://mccsjs.cn/posts/56d6af58",
+      "author": "mccsjs",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_seln_cn_mccsjs.png"
+    },
+    {
+      "title": "道歉信：关于 713 解锁视频中伪回锁内容的说明与反思",
+      "created": "2026-07-20 04:08",
+      "link": "https://blog.mcxiaochen.top/posts/p1e8gapt/",
+      "author": "辰渊尘",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_mcxiaochen_top_%E8%BE%B0%E6%B8%8A%E5%B0%98.ico"
+    },
+    {
+      "title": "围炉：我把 Halo 的瞬间打造成微信朋友圈",
+      "created": "2026-07-19 20:01",
+      "link": "https://blog.timxs.com/archives/5CUmYdGV",
+      "author": "Tim’s Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.timxs.com_Tim_s_Blog.webp"
+    },
+    {
+      "title": "记一次Github学生认证超详细全流程（真学生）",
+      "created": "2026-07-17 03:24",
+      "link": "https://www.rsnocsi.cn/2346.html",
+      "author": "Abyss的小屋",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_rsnocsi_cn_Abyss%E7%9A%84%E5%B0%8F%E5%B1%8B.jpg"
+    },
+    {
+      "title": "AI Agent是什么？如何真正用好Agent？",
+      "created": "2026-07-16 23:27",
+      "link": "https://www.rsnocsi.cn/2328.html",
+      "author": "Abyss的小屋",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_rsnocsi_cn_Abyss%E7%9A%84%E5%B0%8F%E5%B1%8B.jpg"
+    },
+    {
+      "title": "对于新手，如何从零开始开发一个自己的网站？",
+      "created": "2026-07-16 23:26",
+      "link": "https://www.rsnocsi.cn/2327.html",
+      "author": "Abyss的小屋",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_rsnocsi_cn_Abyss%E7%9A%84%E5%B0%8F%E5%B1%8B.jpg"
+    },
+    {
+      "title": "更新简报01",
+      "created": "2026-07-16 08:00",
+      "link": "https://www.xscnet.cn/posts/p4220260716/",
+      "author": "Mete0r",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_xscnet_cn_Mete0r.ico"
+    },
+    {
+      "title": "Artitalk的数据从leancloud迁移到了vercel+neon",
+      "created": "2026-07-15 23:27",
+      "link": "https://blog.224418.xyz/posts/32ec0d8a/",
+      "author": "TangShiMei",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_224418_xyz_TangShiMei.png"
+    },
+    {
+      "title": "713解锁节来辣！小米17全系，k90pm又能解bl了",
+      "created": "2026-07-14 01:02",
+      "link": "https://blog.mcxiaochen.top/posts/mi-unlock-713/",
+      "author": "辰渊尘",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_mcxiaochen_top_%E8%BE%B0%E6%B8%8A%E5%B0%98.ico"
+    },
+    {
+      "title": "换了个新眼镜",
+      "created": "2026-07-13 14:35",
+      "link": "https://blog.224418.xyz/posts/b3f7b0dd/",
+      "author": "TangShiMei",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_224418_xyz_TangShiMei.png"
+    },
+    {
+      "title": "Cloudflare/Vercel项目推荐(6)",
+      "created": "2026-07-13 00:12",
+      "link": "https://blog.liushen.fun/posts/e4a369fc/",
+      "author": "清羽飞扬",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_liushen_fun_%E6%B8%85%E7%BE%BD%E9%A3%9E%E6%89%AC.ico"
+    },
+    {
+      "title": "最近的一些碎片",
+      "created": "2026-07-11 21:39",
+      "link": "https://dongjunke.cn/posts/2026/07/11/57824.html",
+      "author": "东评西就",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dongjunke_cn_%E4%B8%9C%E8%AF%84%E8%A5%BF%E5%B0%B1.png"
+    },
+    {
+      "title": "香港三日游 | 独特的体验",
+      "created": "2026-07-10 08:00",
+      "link": "https://www.xscnet.cn/posts/p4120260710/",
+      "author": "Mete0r",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_xscnet_cn_Mete0r.ico"
+    },
+    {
+      "title": "PVE 内网穿透实战：LXC 容器部署 frpc",
+      "created": "2026-07-05 23:32",
+      "link": "https://blog.timxs.com/archives/H6CODZKj",
+      "author": "Tim’s Blog",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.timxs.com_Tim_s_Blog.webp"
+    },
+    {
+      "title": "免费领取网易云音乐7天会员",
+      "created": "2026-07-05 02:48",
+      "link": "https://blog.mcxiaochen.top/posts/p6eae1621/",
+      "author": "辰渊尘",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_mcxiaochen_top_%E8%BE%B0%E6%B8%8A%E5%B0%98.ico"
+    },
+    {
+      "title": "长安公园荷花",
+      "created": "2026-07-03 21:08",
+      "link": "https://dongjunke.cn/posts/2026/07/03/6858.html",
+      "author": "东评西就",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dongjunke_cn_%E4%B8%9C%E8%AF%84%E8%A5%BF%E5%B0%B1.png"
+    },
+    {
+      "title": "Mysql数据库损坏导致丢失部分数据",
+      "created": "2026-07-01 23:21",
+      "link": "https://t-t.live/archives/Epw1vK9w",
+      "author": "团团生活志",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.t-t.live_%E5%9B%A2%E5%9B%A2%E7%94%9F%E6%B4%BB%E5%BF%97.ico"
+    },
+    {
+      "title": "新的博客框架！全量上线！",
+      "created": "2026-06-30 08:00",
+      "link": "https://www.xscnet.cn/posts/p4020260630/",
+      "author": "Mete0r",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_xscnet_cn_Mete0r.ico"
+    },
+    {
+      "title": "2026-06小记",
+      "created": "2026-06-29 19:57",
+      "link": "https://blog.storia.ren/posts/write-202606/",
+      "author": "绘星里",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_storia_ren_%E7%BB%98%E6%98%9F%E9%87%8C.png"
+    },
+    {
+      "title": "在Windows下的任何Agent使用Computer Use",
+      "created": "2026-06-28 22:01",
+      "link": "https://www.rsnocsi.cn/2316.html",
+      "author": "Abyss的小屋",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_rsnocsi_cn_Abyss%E7%9A%84%E5%B0%8F%E5%B1%8B.jpg"
+    },
+    {
+      "title": "当AI开始互相写信",
+      "created": "2026-06-28 10:17",
+      "link": "https://dongjunke.cn/posts/2026/06/28/11833.html",
+      "author": "东评西就",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/dongjunke_cn_%E4%B8%9C%E8%AF%84%E8%A5%BF%E5%B0%B1.png"
+    },
+    {
+      "title": "人生的「新篇章」",
+      "created": "2026-06-24 19:23",
+      "link": "https://blog.kamt.cn/archives/66/",
+      "author": "木头堆栈",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/files.kamt.cn_%E6%9C%A8%E5%A4%B4%E5%A0%86%E6%A0%88.png"
+    },
+    {
+      "title": "一个有趣的项目背后的难点--MC的3D皮肤生成器",
+      "created": "2026-06-21 00:00",
+      "link": "https://www.vindo.cn/blog/skinmint-anime-to-minecraft",
+      "author": "间窗的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_vindo_cn_%E9%97%B4%E7%AA%97%E7%9A%84%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "哪吒监控CVE-2026-53519高危漏洞入侵复盘",
+      "created": "2026-06-19 08:00",
+      "link": "https://blog.tianhw.top/posts/nezha-vulnerability-incident/",
+      "author": "THW",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_tianhw_top_THW.webp"
+    },
+    {
+      "title": "Moments 极简朋友圈 + iPhone 16 Pro 网页模拟完整实现",
+      "created": "2026-06-19 01:40",
+      "link": "https://blog.zxiaolin.com/archives/momen-pro",
+      "author": "小林酱博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.zxiaolin.com_%E5%B0%8F%E6%9E%97%E9%85%B1%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "vibe-coding个人实践",
+      "created": "2026-06-15 01:00",
+      "link": "https://blog.liushen.fun/posts/67261b47/",
+      "author": "清羽飞扬",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_liushen_fun_%E6%B8%85%E7%BE%BD%E9%A3%9E%E6%89%AC.ico"
+    },
+    {
+      "title": "什么是Agent，它能干什么",
+      "created": "2026-06-11 20:38",
+      "link": "https://mccsjs.cn/posts/d29e4129",
+      "author": "mccsjs",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_seln_cn_mccsjs.png"
+    },
+    {
+      "title": "没想到我也经历了一次劳动维权",
+      "created": "2026-06-11 01:19",
+      "link": "https://t-t.live/archives/spkKwQOA",
+      "author": "团团生活志",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.t-t.live_%E5%9B%A2%E5%9B%A2%E7%94%9F%E6%B4%BB%E5%BF%97.ico"
+    },
+    {
+      "title": "AI 做 PPT，真正好用的流程不是“生成”，而是“可编辑”",
+      "created": "2026-06-07 23:51",
+      "link": "https://blog.zxiaolin.com/archives/AI-PPT",
+      "author": "小林酱博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.zxiaolin.com_%E5%B0%8F%E6%9E%97%E9%85%B1%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "近况（Ⅱ）",
+      "created": "2026-06-07 01:10",
+      "link": "https://peter267.github.io/posts/post45/",
+      "author": "Peter267",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/peter267_github_io_Peter267.ico"
+    },
+    {
+      "title": "各大 AI 使用感受",
+      "created": "2026-06-06 01:14",
+      "link": "https://t-t.live/archives/4RDCQ3oR",
+      "author": "团团生活志",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.t-t.live_%E5%9B%A2%E5%9B%A2%E7%94%9F%E6%B4%BB%E5%BF%97.ico"
+    },
+    {
+      "title": "iPhone17ProMax 和 Macmini4 初体验",
+      "created": "2026-06-05 01:05",
+      "link": "https://t-t.live/archives/LmEk8pwZ",
+      "author": "团团生活志",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.t-t.live_%E5%9B%A2%E5%9B%A2%E7%94%9F%E6%B4%BB%E5%BF%97.ico"
+    },
+    {
+      "title": "THYUU/星度主题 26.7.0 小暑版本更新内容：主题地图源引来天地图和 Mapbox、站点特写迎来交互升级，瞬间动态浏览更流畅",
+      "created": "2026-06-01 16:47",
+      "link": "https://www.thyuu.com/82351/",
+      "author": "风记星辰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_thyuu_com_%E9%A3%8E%E8%AE%B0%E6%98%9F%E8%BE%B0.png"
+    },
+    {
+      "title": "建站四年，从Hexo换到Astro",
+      "created": "2026-06-01 02:10",
+      "link": "https://blog.liushen.fun/posts/acf06c11/",
+      "author": "清羽飞扬",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_liushen_fun_%E6%B8%85%E7%BE%BD%E9%A3%9E%E6%89%AC.ico"
+    },
+    {
+      "title": "2026-05小记",
+      "created": "2026-05-31 21:32",
+      "link": "https://blog.storia.ren/posts/write-202605/",
+      "author": "绘星里",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_storia_ren_%E7%BB%98%E6%98%9F%E9%87%8C.png"
+    },
+    {
+      "title": "手写一个2层神经网络，反向传播",
+      "created": "2026-05-26 20:16",
+      "link": "https://haiy.space/posts/2",
+      "author": "素心",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/haiy_space_%E7%B4%A0%E5%BF%83.webp"
+    },
+    {
+      "title": "权重和偏置到底怎么算？",
+      "created": "2026-05-26 20:15",
+      "link": "https://haiy.space/posts/post-1779797723994",
+      "author": "素心",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/haiy_space_%E7%B4%A0%E5%BF%83.webp"
+    },
+    {
+      "title": "浏览器直接访问正常，过了负载均衡就崩了？只因响应头里多了个空格",
+      "created": "2026-05-23 09:30",
+      "link": "https://www.imaegoo.com/2026/lb-connection-reset/",
+      "author": "虹墨",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_imaegoo_com_%E8%99%B9%E5%A2%A8.png"
+    },
+    {
+      "title": "曾经的偶像",
+      "created": "2026-05-22 23:33",
+      "link": "https://yuuu.org/post/former-idols/",
+      "author": "微霞",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yuuu_org_%E5%BE%AE%E9%9C%9E.png"
+    },
+    {
+      "title": "炒股（终）",
+      "created": "2026-05-22 22:41",
+      "link": "https://yuuu.org/post/bye-stocks/",
+      "author": "微霞",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yuuu_org_%E5%BE%AE%E9%9C%9E.png"
+    },
+    {
+      "title": "免费获取Gemini 3.1Pro会员一年专用",
+      "created": "2026-05-20 16:16",
+      "link": "https://www.0731119.xyz/index.php/archives/545/",
+      "author": "多星宇博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_0731119_xyz_%E5%A4%9A%E6%98%9F%E5%AE%87%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "写在迁移之后：从 Hexo 到 Astro",
+      "created": "2026-05-19 20:00",
+      "link": "https://yuuu.org/post/hexo-to-astro-after-migration/",
+      "author": "微霞",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yuuu_org_%E5%BE%AE%E9%9C%9E.png"
+    },
+    {
+      "title": "关于 abbrlink 的一些见解",
+      "created": "2026-05-18 07:09",
+      "link": "https://yuuu.org/post/about-abbrlink/",
+      "author": "微霞",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yuuu_org_%E5%BE%AE%E9%9C%9E.png"
+    },
+    {
+      "title": "做了一份30分钟从零落地：微信小程序设计规范Skill",
+      "created": "2026-05-14 12:25",
+      "link": "https://blog.zxiaolin.com/archives/wechat-Skill",
+      "author": "小林酱博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog.zxiaolin.com_%E5%B0%8F%E6%9E%97%E9%85%B1%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "使用AI做想要的图脚本",
+      "created": "2026-05-13 10:05",
+      "link": "https://www.0731119.xyz/index.php/archives/543/",
+      "author": "多星宇博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_0731119_xyz_%E5%A4%9A%E6%98%9F%E5%AE%87%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "风记得的音乐：《行将近》—— Soon to Leave",
+      "created": "2026-05-09 18:26",
+      "link": "https://www.thyuu.com/82442/",
+      "author": "风记星辰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_thyuu_com_%E9%A3%8E%E8%AE%B0%E6%98%9F%E8%BE%B0.png"
+    },
+    {
+      "title": "AI后时代的感情收割：影视飓风39分钟短片《再见亲人》",
+      "created": "2026-05-06 12:00",
+      "link": "https://www.thyuu.com/82376/",
+      "author": "风记星辰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_thyuu_com_%E9%A3%8E%E8%AE%B0%E6%98%9F%E8%BE%B0.png"
+    },
+    {
+      "title": "2026-04小记",
+      "created": "2026-05-01 21:58",
+      "link": "https://blog.storia.ren/posts/write-202604/",
+      "author": "绘星里",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_storia_ren_%E7%BB%98%E6%98%9F%E9%87%8C.png"
+    },
+    {
+      "title": "THYUU/星度主题 26.4.0 正式版更新内容：全新首页及瞬间动态登场",
+      "created": "2026-04-18 19:06",
+      "link": "https://www.thyuu.com/82028/",
+      "author": "风记星辰",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_thyuu_com_%E9%A3%8E%E8%AE%B0%E6%98%9F%E8%BE%B0.png"
+    },
+    {
+      "title": "近期",
+      "created": "2026-04-12 06:35",
+      "link": "https://mccsjs.cn/posts/cc95c699",
+      "author": "mccsjs",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_seln_cn_mccsjs.png"
+    },
+    {
+      "title": "全民 “养龙虾” 狂潮：技术革命与营销泡沫的双面镜像",
+      "created": "2026-04-02 06:09",
+      "link": "https://xinyu19.com/assorted/152.html",
+      "author": "心语难诉",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.xinyu19.com_%E5%BF%83%E8%AF%AD%E9%9A%BE%E8%AF%89.png"
+    },
+    {
+      "title": "最好的礼物",
+      "created": "2026-03-28 12:00",
+      "link": "https://peter267.github.io/posts/post44/",
+      "author": "Peter267",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/peter267_github_io_Peter267.ico"
+    },
+    {
+      "title": "明明是做菜神器，却要脏手碰手机？教你1步把Siri换成豆包",
+      "created": "2026-02-28 09:41",
+      "link": "https://www.0731119.xyz/index.php/archives/541/",
+      "author": "多星宇博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_0731119_xyz_%E5%A4%9A%E6%98%9F%E5%AE%87%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "新年快乐，马到成功",
+      "created": "2026-02-17 08:00",
+      "link": "https://mccsjs.cn/posts/eb007bb7",
+      "author": "mccsjs",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_seln_cn_mccsjs.png"
+    },
+    {
+      "title": "2025 年终总结",
+      "created": "2026-02-17 00:00",
+      "link": "https://yumetsuki.moe/posts/e9c9f9e0/",
+      "author": "梦溯·镜影",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yumetsuki_moe_%E6%A2%A6%E6%BA%AF_%E9%95%9C%E5%BD%B1.ico"
+    },
+    {
+      "title": "使用Zeabur部署OpenList，免费、快速且稳定",
+      "created": "2026-02-04 21:34",
+      "link": "https://peter267.github.io/posts/post43/",
+      "author": "Peter267",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/peter267_github_io_Peter267.ico"
+    },
+    {
+      "title": "博客俱乐部，最有社区氛围的中文博客联盟",
+      "created": "2025-11-01 08:00",
+      "link": "https://www.vindo.cn/blog/blogc",
+      "author": "间窗的博客",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_vindo_cn_%E9%97%B4%E7%AA%97%E7%9A%84%E5%8D%9A%E5%AE%A2.png"
+    },
+    {
+      "title": "深入 Java Stream 流：实际工作中应用",
+      "created": "2025-10-30 17:00",
+      "link": "https://blog.strarry.top/posts/java-stream-practical-guide",
+      "author": "星辰の笔记",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_strarry_top_%E6%98%9F%E8%BE%B0_%E7%AC%94%E8%AE%B0.ico"
+    },
+    {
+      "title": "入职小记：从校园到职场的第一个月 & 节日祝福",
+      "created": "2025-09-30 22:04",
+      "link": "https://blog.strarry.top/posts/first-month-at-work",
+      "author": "星辰の笔记",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_strarry_top_%E6%98%9F%E8%BE%B0_%E7%AC%94%E8%AE%B0.ico"
+    },
+    {
+      "title": "新征程启航：面试通过到职场新人",
+      "created": "2025-09-05 18:10",
+      "link": "https://blog.strarry.top/posts/new-journey-first-job",
+      "author": "星辰の笔记",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/blog_strarry_top_%E6%98%9F%E8%BE%B0_%E7%AC%94%E8%AE%B0.ico"
+    },
+    {
+      "title": "目前可用：最新QQ跳转加好友临时会话接口",
+      "created": "2025-09-02 17:51",
+      "link": "https://www.lyszm.com/1077.html",
+      "author": "六月是只猫",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_lyszm_com_%E5%85%AD%E6%9C%88%E6%98%AF%E5%8F%AA%E7%8C%AB.ico"
+    },
+    {
+      "title": "PHP动态二维码管理系统：轻量级无数据库方案",
+      "created": "2025-09-02 16:54",
+      "link": "https://www.lyszm.com/1071.html",
+      "author": "六月是只猫",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_lyszm_com_%E5%85%AD%E6%9C%88%E6%98%AF%E5%8F%AA%E7%8C%AB.ico"
+    },
+    {
+      "title": "【深度解析Java 20天速成】05_数组",
+      "created": "2025-02-13 16:02",
+      "link": "https://jiangyiming.cn/archives/05%E6%95%B0%E7%BB%84md",
+      "author": "江一铭",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/jiangsihan.cn_%E6%B1%9F%E4%B8%80%E9%93%AD.jpg"
+    },
+    {
+      "title": "网页实现白色简约风格弹窗公告的 HTML 代码",
+      "created": "2025-02-07 00:44",
+      "link": "https://www.lyszm.com/1065.html",
+      "author": "六月是只猫",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_lyszm_com_%E5%85%AD%E6%9C%88%E6%98%AF%E5%8F%AA%E7%8C%AB.ico"
+    },
+    {
+      "title": "【深度解析Java 20天速成】04_IDEA的安装与使用",
+      "created": "2025-01-20 17:52",
+      "link": "https://jiangyiming.cn/archives/04idea%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8md",
+      "author": "江一铭",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/jiangsihan.cn_%E6%B1%9F%E4%B8%80%E9%93%AD.jpg"
+    },
+    {
+      "title": "【深度解析Java 20天速成】03_流程控制语句",
+      "created": "2025-01-17 17:43",
+      "link": "https://jiangyiming.cn/archives/03%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5md",
+      "author": "江一铭",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/jiangsihan.cn_%E6%B1%9F%E4%B8%80%E9%93%AD.jpg"
+    },
+    {
+      "title": "【深度解析Java 20天速成】02_变量与运算符",
+      "created": "2025-01-17 14:15",
+      "link": "https://jiangyiming.cn/archives/02%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%90%E7%AE%97%E7%AC%A6md",
+      "author": "江一铭",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/jiangsihan.cn_%E6%B1%9F%E4%B8%80%E9%93%AD.jpg"
+    },
+    {
+      "title": "2024 年终总结",
+      "created": "2024-12-29 00:00",
+      "link": "https://yumetsuki.moe/posts/04f3c137/",
+      "author": "梦溯·镜影",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yumetsuki_moe_%E6%A2%A6%E6%BA%AF_%E9%95%9C%E5%BD%B1.ico"
+    },
+    {
+      "title": "Obsidian 插件：Abbrlink——让你的编辑器和博客融合得更紧密",
+      "created": "2024-11-20 00:00",
+      "link": "https://yumetsuki.moe/posts/1ee472c8/",
+      "author": "梦溯·镜影",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yumetsuki_moe_%E6%A2%A6%E6%BA%AF_%E9%95%9C%E5%BD%B1.ico"
+    },
+    {
+      "title": "谈谈「博客：遗章」",
+      "created": "2024-11-16 00:00",
+      "link": "https://yumetsuki.moe/posts/ce5471fd/",
+      "author": "梦溯·镜影",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/yumetsuki_moe_%E6%A2%A6%E6%BA%AF_%E9%95%9C%E5%BD%B1.ico"
+    },
+    {
+      "title": "搜狗输入法新体验，彩虹派对打字炫酷动态皮肤",
+      "created": "2024-11-02 20:14",
+      "link": "https://www.lyszm.com/1054.html",
+      "author": "六月是只猫",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/www_lyszm_com_%E5%85%AD%E6%9C%88%E6%98%AF%E5%8F%AA%E7%8C%AB.ico"
+    },
+    {
+      "title": "优秀编程字体 - FiraCode",
+      "created": "2019-10-18 19:37",
+      "link": "https://xinyu19.com/skills/151.html",
+      "author": "心语难诉",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.xinyu19.com_%E5%BF%83%E8%AF%AD%E9%9A%BE%E8%AF%89.png"
+    },
+    {
+      "title": "phpstudy-linux 让天下没有难配的服务器环境",
+      "created": "2019-10-15 18:13",
+      "link": "https://xinyu19.com/linux/150.html",
+      "author": "心语难诉",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.xinyu19.com_%E5%BF%83%E8%AF%AD%E9%9A%BE%E8%AF%89.png"
+    },
+    {
+      "title": "PHP获取京东三级联动数据",
+      "created": "2019-06-09 13:00",
+      "link": "https://xinyu19.com/php/145.html",
+      "author": "心语难诉",
+      "avatar": "https://www.endy2576.cn/img/selfhosted/friends/img.xinyu19.com_%E5%BF%83%E8%AF%AD%E9%9A%BE%E8%AF%89.png"
+    }
+  ]
+}
